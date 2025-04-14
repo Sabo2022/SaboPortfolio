@@ -256,6 +256,7 @@ section {
   overflow: hidden;
   position: relative;
   width: 10em;
+  padding: 1.5em;
 }
 .tech-container:before {
   background-color: var(--primary-alt);
